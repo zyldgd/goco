@@ -1,3 +1,8 @@
+.idea
+.setting
+log
+*.log
+
 # Binaries for programs and plugins
 *.exe
 *.exe~
